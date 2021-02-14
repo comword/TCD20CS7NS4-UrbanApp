@@ -1,0 +1,52 @@
+Main: Starting AQI worker
+Main: Starting Weather worker
+Main: Started
+Sending request to weather API
+Sending request to AQI API
+AQIData: Old time:  , Last time:  15:45 22-11-2020
+{"generated": "15:45 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Upload the weather data at 15:00 22-11-2020
+Sending request to AQI API
+AQIData: Old time: 15:45 22-11-2020 , Last time:  15:55 22-11-2020
+{"generated": "15:55 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 15:55 22-11-2020 , Last time:  16:00 22-11-2020
+{"generated": "16:00 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 16:00 22-11-2020 , Last time:  16:05 22-11-2020
+{"generated": "16:05 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 16:05 22-11-2020 , Last time:  16:10 22-11-2020
+{"generated": "16:10 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 16:10 22-11-2020 , Last time:  16:15 22-11-2020
+{"generated": "16:15 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+Sending request to weather API
+Upload the weather data at 16:00 22-11-2020
+Sending request to AQI API
+AQIData: Old time: 16:15 22-11-2020 , Last time:  16:25 22-11-2020
+{"generated": "16:25 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 16:25 22-11-2020 , Last time:  16:30 22-11-2020
+{"generated": "16:30 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 16:30 22-11-2020 , Last time:  16:35 22-11-2020
+{"generated": "16:35 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 16:35 22-11-2020 , Last time:  16:40 22-11-2020
+{"generated": "16:40 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 16:40 22-11-2020 , Last time:  16:45 22-11-2020
+{"generated": "16:45 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+Sending request to weather API
+Sending request to AQI API
+AQIData: Old time: 16:45 22-11-2020 , Last time:  16:55 22-11-2020
+{"generated": "16:55 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 16:55 22-11-2020 , Last time:  17:00 22-11-2020
+{"generated": "17:00 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}
+Sending request to AQI API
+AQIData: Old time: 17:00 22-11-2020 , Last time:  17:05 22-11-2020
+{"generated": "17:05 22-11-2020","generatedBy": "Environmental Protection Agency","updatedAt": "Approximately 15 minute intevals, continuously.","regions": [{"_region":"Connaught","_aqihT":"Good","_aqih":3},{"_region":"Cork city","_aqihT":"Good","_aqih":2},{"_region":"Dublin city","_aqihT":"Good","_aqih":3},{"_region":"Leinster","_aqihT":"Good","_aqih":2},{"_region":"Munster","_aqihT":"Fair","_aqih":5},{"_region":"Ulster","_aqihT":"Good","_aqih":3}]}

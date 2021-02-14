@@ -1,0 +1,15 @@
+[
+  {
+    "generated": "14:22 22-11-2020",
+    "generatedBy": "Environmental Protection Agency",
+    "updatedAt": "Approximately 15 minute intevals, continuously.",
+    "regions": [
+      { "_region": "Connaught", "_aqihT": "Good", "_aqih": 3 },
+      { "_region": "Cork city", "_aqihT": "Good", "_aqih": 2 },
+      { "_region": "Dublin city", "_aqihT": "Good", "_aqih": 3 },
+      { "_region": "Leinster", "_aqihT": "Good", "_aqih": 2 },
+      { "_region": "Munster", "_aqihT": "Fair", "_aqih": 5 },
+      { "_region": "Ulster", "_aqihT": "Good", "_aqih": 3 }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StatusEntity">
+        <attr name="desc" format="string" />
+        <attr name="value" format="string" />
+    </declare-styleable>
+    <declare-styleable name="StatusCard">
+        <attr name="speed" format="string" />
+        <attr name="altitude" format="string" />
+        <attr name="latitude" format="string" />
+        <attr name="longitude" format="string" />
+        <attr name="visibility" format="boolean" />
+    </declare-styleable>
+</resources>

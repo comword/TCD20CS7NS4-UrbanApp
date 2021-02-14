@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <org.gtdev.apps.sensinglight.widget.AccountIndicator
+        android:id="@+id/account_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/profile_subtitle_padding"
+        android:paddingTop="@dimen/profile_subtitle_padding"
+        android:text="@string/profile_about_you"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textSize="16sp" />
+
+    <View
+        style="@style/DividerStyle"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_logcat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_logcat" />
+
+</LinearLayout>
